@@ -1,0 +1,12 @@
+corolla
+toyota
+10000
+civic
+honda
+10000
+mehran
+suzuki
+2000
+santro
+haundai
+5000
